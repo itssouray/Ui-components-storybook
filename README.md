@@ -41,9 +41,9 @@ The Button component is a versatile button element with various customization op
 
   Props:
 
- - variant: Accepts values like 'primary', 'secondary', etc.
+ - variant: Accepts values like 'solid', 'outline', etc.
 
- - size: Sizes include 'small', 'medium', 'large'.
+ - size: Sizes include 'text', 'password', 'date'.
 
 
 • Input
